@@ -1,5 +1,5 @@
 # Stock_Control_of_Musical_Instruments
-Trabalho sobre controle de estoque de instrumentos musicais para uma banda. Executado no segundo período de Graduação pela Faculdade Metodista Granbery.
+Trabalho sobre controle de estoque de instrumentos musicais para uma banda. Executado no segundo período de Graduação pela Faculdade Metodista Granbery, feito em dupla com a aluna Isadora Laviola.
 
 A Banda deseja um contrato para desenvolver um sistema que gerencie os instrumentos musicais. Eles precisam de um cadastro que armazene o nome do instrumento, o nome do músico que utiliza o instrumento, o ano de compra e o preço de compra.  O número de instrumentos pode variar, pois os antigos podem ser descartados e novos podem ser comprados.
 
